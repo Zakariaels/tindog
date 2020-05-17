@@ -5,7 +5,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat-Bold";
+  font-family: "Montserrat";
 }
 
 p {
@@ -15,7 +15,8 @@ p {
 /* Headings */
 
 .big-heading {
-  font-family: "Montserrat-Black";
+  font-family: "Montserrat";
+  font-size: medium;
   font-size: 3.5rem;
   line-height: 1.5;
 }
@@ -60,7 +61,7 @@ p {
 
 .nav-link {
   font-size: 1.2rem;
-  font-family: "Montserrat-Light";
+  font-family: "Montserrat";
 }
 
 /* Buttons */
